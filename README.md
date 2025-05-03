@@ -4,12 +4,14 @@
 A responsive and semantic website built as part of the Dicoding Semantic Web course. The project demonstrates the application of basic HTML, CSS, and semantic principles to create a clean and accessible web layout.
 
 ## Features
+
 - Fully responsive layout
 - Semantic HTML structure
 - Clean and minimal design
 - Built using vanilla HTML and CSS
 
 ## Requirements
+
 - Modern web browser
 - No additional dependencies
 

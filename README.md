@@ -1,4 +1,3 @@
-
 # Dicoding Web Submission
 
 A responsive and semantic website built as part of the Dicoding Semantic Web course. The project demonstrates the application of basic HTML, CSS, and semantic principles to create a clean and accessible web layout.
